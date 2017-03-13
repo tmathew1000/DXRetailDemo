@@ -13,7 +13,7 @@ namespace SimulatedDevice
     {
         static DeviceClient deviceClient;
         static string iotHubUri = "dxretailiothub.azure-devices.net";
-        static string deviceKey = "SUuM6szwQJKAzDP1tRJueyfpLkcNXd7Wp6Zqlhr/jaI=";
+        static string deviceKey = "<ENTER KEY>";
         static List<product> products;
 
 
